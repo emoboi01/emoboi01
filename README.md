@@ -31,4 +31,4 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I love cats
