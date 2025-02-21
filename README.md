@@ -27,7 +27,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 </div>
 
 ### 🌱 I’m learning
-\
+How to make games
 
 ### ⚡ Fun fact
 
