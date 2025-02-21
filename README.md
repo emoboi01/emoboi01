@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
+my name is Lucy, I am a year 3 Informatica student!
 
 I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
