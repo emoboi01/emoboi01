@@ -12,21 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
-my name is Lucy, I am a year 4 Informatica student!
+## Hi!
+My name is Lucy, Im a year four informatica student.
 
-I'm using HTML, CSS, and JavaScript 
 
-**I love working with**
+
+### Projects im proud of:
+
+A bit lower you can find some projects im proud of.
+Another project I worked on was a 2d game called "the Cat's away".
+
+https://berry-cool-games.itch.io/the-cats-away
+
+
+### I love working with:
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
+
 ### 🌱 I’m learning
-How to make games. Im currently making a 2d game in unity
+How to make 3d games in unity.
 
 ### ⚡ Fun fact
-
-I love cats
+I love cats :)
