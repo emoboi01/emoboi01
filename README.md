@@ -1,5 +1,6 @@
 ## Hi!
 My name is Lucy! Im a year four informatica student. 
+
 Im a passionate coder with interest in front-end, but im also interested in back-end.
 Im currently working on a 3D game in unity, I have great interest in game development :)
 
