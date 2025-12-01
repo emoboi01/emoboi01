@@ -16,7 +16,6 @@ https://berry-cool-games.itch.io/the-cats-away
 ### 🌱 I’m learning
 How to make 3d games in unity.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emoboi01&show_icons=true&include_all_commits=true&count_private=true)
 
 ## 🧠 Languages & Frameworks
 
